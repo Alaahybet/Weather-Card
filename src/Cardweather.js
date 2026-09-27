@@ -43,7 +43,7 @@ getWeather();
      
       <Typography gutterBottom sx={{ color: 'white', fontSize: 40 ,fontFamily:'Tajawal', textAlign:'center' , position:'relative' , bottom:20}}>
          <span style={{ fontSize: '1em', alignItems:'right'}}> 📌  </span>
-       {  Weather?.name } <Divider orientation='horizontla' flexItem sx={{borderColor:'rgba(255,255,255,0.6)'}}/>
+       {  } <Divider orientation='horizontla' flexItem sx={{borderColor:'rgba(255,255,255,0.6)'}}/>
        
       </Typography>
               
@@ -98,7 +98,7 @@ contain(Weather?.weather?.[0]?.main);
      return (
     <Box sx={{ minWidth: 400  }}>
         
-      <Card variant="outlined" sx={{backgroundImage:`url(${weatherBg})`, boxShadow:'0px 8px 20px rgba(0,0,0,0.9)' , borderRadius:'50px', transition:'transform 0.3s ease' , '&:hover':{transform:'scale(1.05)'}, }}>{card}</Card>
+      <Card variant="outlined" sx={{backgroundImage:`url(${weatherBg})`, boxShadow:'0 0 55px 8px rgba(255,200,140,0.20), 0px 8px 24px rgba(0,0,0,0.55)' , borderRadius:'50px', transition:'transform 0.3s ease' , '&:hover':{transform:'scale(1.03)'}, }}>{card}</Card>
 
       </Box>
     

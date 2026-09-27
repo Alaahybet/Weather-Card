@@ -7,6 +7,7 @@ function App() {
   return (
 
     <div className="App">
+    <h1 className="site-title">🌤️ حالة الطقس</h1>
     <Cardweather/>
 
     
