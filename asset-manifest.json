@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/weather-Card/static/css/main.60f3c74f.css",
-    "main.js": "/weather-Card/static/js/main.1ee18698.js",
-    "static/js/453.736cec8a.chunk.js": "/weather-Card/static/js/453.736cec8a.chunk.js",
-    "static/media/sun.png": "/weather-Card/static/media/sun.d63922b5e05ae67d2561.png",
-    "static/media/codioful-formerly-gradienta-OzfD79w8ptA-unsplash.jpg": "/weather-Card/static/media/codioful-formerly-gradienta-OzfD79w8ptA-unsplash.abe9e887f306aa9dc18b.jpg",
-    "index.html": "/weather-Card/index.html",
-    "main.60f3c74f.css.map": "/weather-Card/static/css/main.60f3c74f.css.map",
-    "main.1ee18698.js.map": "/weather-Card/static/js/main.1ee18698.js.map",
-    "453.736cec8a.chunk.js.map": "/weather-Card/static/js/453.736cec8a.chunk.js.map"
+    "main.css": "/Weather-Card/static/css/main.60f3c74f.css",
+    "main.js": "/Weather-Card/static/js/main.27ef0e34.js",
+    "static/js/453.736cec8a.chunk.js": "/Weather-Card/static/js/453.736cec8a.chunk.js",
+    "static/media/sun.png": "/Weather-Card/static/media/sun.d63922b5e05ae67d2561.png",
+    "static/media/codioful-formerly-gradienta-OzfD79w8ptA-unsplash.jpg": "/Weather-Card/static/media/codioful-formerly-gradienta-OzfD79w8ptA-unsplash.abe9e887f306aa9dc18b.jpg",
+    "index.html": "/Weather-Card/index.html",
+    "main.60f3c74f.css.map": "/Weather-Card/static/css/main.60f3c74f.css.map",
+    "main.27ef0e34.js.map": "/Weather-Card/static/js/main.27ef0e34.js.map",
+    "453.736cec8a.chunk.js.map": "/Weather-Card/static/js/453.736cec8a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60f3c74f.css",
-    "static/js/main.1ee18698.js"
+    "static/js/main.27ef0e34.js"
   ]
 }
